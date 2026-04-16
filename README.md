@@ -8,3 +8,4 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 - [ ] Adjust name of track file to GLL Thunderhill Skidpad
 - [ ] Remove B and New course layouts for release
 - [ ] Add lucky's S14 to track
+- [ ] Fix small skidpad kwall layout and add colliders
