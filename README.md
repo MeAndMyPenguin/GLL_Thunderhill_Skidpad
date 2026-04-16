@@ -1,2 +1,3 @@
-# Assetto-Corsa-Tracks
-Just having some fun and making tracks for assetto corsa. @P3D.WS
+# GoodLuckLeague Thunderhill Skidpad
+
+Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
