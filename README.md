@@ -15,4 +15,5 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 - [ ] Layout for small skidpad
 - [x] Folding sign graphic
 - [ ] Log file for changes
-- [ ] Track cameras
+- [ ] AI spline for track cameras
+- [x] Add grooves throughout the pits
