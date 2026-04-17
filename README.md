@@ -11,7 +11,7 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 - [x] Add lucky's S14 to track
 - [ ] Fix small skidpad kwall layout and add colliders
 - [x] Adjust world grass texture/mask
-- [ ] Content manager/loading screen graphics
+- [x] Content manager/loading screen graphics
 - [ ] Layout for small skidpad
 - [x] Folding sign graphic
 - [ ] Log file for changes
