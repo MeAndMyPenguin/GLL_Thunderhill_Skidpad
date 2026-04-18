@@ -10,10 +10,11 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 - [x] Remove B and New course layouts for release
 - [x] Add lucky's S14 to track
 - [ ] Fix small skidpad kwall layout and add colliders
+- [ ] Layout for small skidpad
 - [x] Adjust world grass texture/mask
 - [x] Content manager/loading screen graphics
-- [ ] Layout for small skidpad
 - [x] Folding sign graphic
 - [ ] Log file for changes
-- [ ] AI spline for track cameras
+- [x] AI spline
+- [ ] Track cameras
 - [x] Add grooves throughout the pits
