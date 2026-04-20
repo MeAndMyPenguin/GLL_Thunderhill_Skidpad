@@ -18,5 +18,3 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 - [x] ~~AI spline~~
 - [ ] Track cameras (needs looking over)
 - [x] ~~Add grooves throughout the pits~~
-
-# Change-Log
