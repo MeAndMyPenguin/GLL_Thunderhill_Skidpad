@@ -9,7 +9,7 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 - [ ] Figure out versioning for future releases
 - [x] ~~Remove B and New course layouts for release~~
 - [x] ~~Add lucky's S14 to track~~
-- [ ] Fix small skidpad kwall layout and add colliders
+- [x] ~~Fix small skidpad kwall layout and add colliders~~
 - [ ] Layout for small skidpad
 - [x] ~~Adjust world grass texture/mask~~
 - [x] ~~Content manager/loading screen graphics~~
