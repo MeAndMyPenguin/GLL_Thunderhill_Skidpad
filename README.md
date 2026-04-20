@@ -14,7 +14,7 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 - [x] ~~Adjust world grass texture/mask~~
 - [x] ~~Content manager/loading screen graphics~~
 - [x] ~~Folding sign graphic~~
-- [ ] Log file for changes
+- [x] ~~Log file for changes~~
 - [x] ~~AI spline~~
 - [ ] Track cameras (needs looking over)
 - [x] ~~Add grooves throughout the pits~~
