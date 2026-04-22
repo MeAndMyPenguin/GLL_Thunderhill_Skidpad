@@ -5,7 +5,7 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 # To-do
 - [ ] Track cameras (need tandem replay to tweak angles)
 - [ ] Figure out versioning for future releases
-- [ ] Layout for small skidpad
+- [ ] Layout for small skidpad (needs checking)
 - [ ] Various objects need UVW mapping and AO
 - [x] ~~GLL Nobori flags throughout track~~
 - [x] ~~GLL banner on fencing~~
