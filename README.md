@@ -3,10 +3,12 @@
 Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 
 # To-do
-- [ ] Track cameras (need tandem replay to tweak angles)
 - [ ] Figure out versioning for future releases
 - [ ] Layout for small skidpad (needs checking)
 - [ ] Various objects need UVW mapping and AO
+- [ ] Content manager/loading screen graphics
+- [ ] Cones for small skidpad
+- [x] ~~Track cameras (need tandem replay to tweak angles)~~
 - [x] ~~GLL Nobori flags throughout track~~
 - [x] ~~GLL banner on fencing~~
 - [x] ~~Lucky S14 livery~~
@@ -16,7 +18,6 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 - [x] ~~Add lucky's S14 to track~~
 - [x] ~~Fix small skidpad kwall layout and add colliders~~
 - [x] ~~Adjust world grass texture/mask~~
-- [x] ~~Content manager/loading screen graphics~~
 - [x] ~~Folding sign graphic~~
 - [x] ~~Log file for changes~~
 - [x] ~~AI spline~~
