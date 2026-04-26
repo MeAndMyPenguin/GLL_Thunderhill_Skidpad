@@ -3,8 +3,8 @@
 Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 
 # To-do
-- [ ] Various objects need UVW mapping and AO
-- [ ] Content manager/loading screen graphics
+- [ ] Various objects need UVW mapping and AO (penguin)
+- [ ] Content manager/loading screen graphics (lucky)
 - [x] ~~Layout for small skidpad (needs checking)~~
 - [x] ~~Cones for small skidpad~~
 - [x] ~~Camera for small skidpad~~
