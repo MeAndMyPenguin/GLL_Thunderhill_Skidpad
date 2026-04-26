@@ -5,6 +5,8 @@ Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 # To-do
 - [ ] Various objects need UVW mapping and AO (penguin)
 - [ ] Content manager/loading screen graphics (lucky)
+- [ ] Fill pits with more objects (penguin)
+- [ ] Description for track (lucky)
 - [x] ~~Layout for small skidpad (needs checking)~~
 - [x] ~~Cones for small skidpad~~
 - [x] ~~Camera for small skidpad~~
