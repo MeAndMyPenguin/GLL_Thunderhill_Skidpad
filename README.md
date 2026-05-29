@@ -3,7 +3,7 @@
 Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 
 # To-do
-- [ ] Fill pits with more objects (penguin)
+- [ ] Fill pits with more objects
 - [x] ~~Various objects need UVW mapping and AO~~
 - [x] ~~Content manager/loading screen graphics~~
 - [x] ~~Content manager description for track~~
