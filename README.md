@@ -3,6 +3,7 @@
 Various layouts at the Thunderhill Skidpad from the guys at GoodLuckLeague
 
 # To-do
+- [ ] More layouts???
 - [x] ~~Fill pits with more objects~~
 - [x] ~~Move pits off of trailers~~
 - [x] ~~Various objects need UVW mapping and AO~~
